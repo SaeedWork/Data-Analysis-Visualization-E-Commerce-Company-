@@ -3,7 +3,7 @@
 This repository contains Python code for analyzing and visualizing financial data of an e-commerce company. The analysis is primarily focused on examining various financial aspects such as COD (Cash on Delivery) amounts, packet charges, delivery statuses, and more.
 
 ## Video Link
-[Check out the Video for Analysis] (https://drive.google.com/file/d/1U6aaEl-yajzFi4P2ZKigQXgVB5Hd8f-C/view?usp=sharing)
+[Check out the Video for Analysis](https://drive.google.com/file/d/1U6aaEl-yajzFi4P2ZKigQXgVB5Hd8f-C/view?usp=sharing)
 
 ## Data
 
